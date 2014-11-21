@@ -1,0 +1,20 @@
+{
+  "name": "hubot-pandapanda",
+  "version": "1.0.0",
+  "description": "a hubot script for panda responses",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "comingsoon"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "panada"
+  ],
+  "author": "missu",
+  "license": "MIT"
+}
