@@ -1,15 +1,15 @@
 # Description
-#   listen for panda related trigger words and responds
+#   listens for panda related trigger words and responds
 #
 # Dependencies:
 #   none
 #
 # Commands:
-#   hubot listens for : sadpanda, sad panda, angry panda, frustated panda
-#   hubot will replay with an image that capture that emotion.
+#   sad panda, angry panda, frustated panda, happy panda - hubot will reply with an image that captures that emotion.
+#   
 #
 # Author:
-#   missu <missu@users.noreply.github.com>
+#   missu 
 
 module.exports = (robot) ->
   robot.hear /(.*) panda/i, (msg) ->
