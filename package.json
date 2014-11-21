@@ -1,6 +1,6 @@
 {
   "name": "hubot-pandapanda",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "a hubot script for panda responses",
   "main": "index.coffee",
   "scripts": {

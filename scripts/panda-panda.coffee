@@ -7,7 +7,6 @@
 # Commands:
 #   sad panda, angry panda, frustated panda, happy panda - hubot will reply with an image that captures that emotion.
 #   
-#
 # Author:
 #   missu 
 
