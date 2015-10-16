@@ -12,7 +12,7 @@
 
 module.exports = (robot) ->
   robot.hear /(.*) panda/i, (msg) ->
-    pandaType = msg.match[1]
+    pandaType = msg.match[1].toLowerCase()
     angry = [
         'http://fc08.deviantart.net/fs70/f/2010/010/6/1/CROSS_ID_Panda_Version_by_xxcrossmaniac.jpg'
         'http://www.electricdialogue.com/2012dev/wp-content/uploads/2012/04/angry-panda.png'
