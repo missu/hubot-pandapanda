@@ -1,6 +1,6 @@
 {
   "name": "hubot-pandapanda",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "description": "a hubot script for panda responses",
   "main": "index.coffee",
   "scripts": {
@@ -17,8 +17,8 @@
   ],
   "author": "missu",
   "license": "MIT",
-  "bugs":{
-    "url":"https://github.com/missu/hubot-pandapanda/issues"
+  "bugs": {
+    "url": "https://github.com/missu/hubot-pandapanda/issues"
   },
-  "homepage":"https://github.com/missu/hubot-pandapanda"
+  "homepage": "https://github.com/missu/hubot-pandapanda"
 }
